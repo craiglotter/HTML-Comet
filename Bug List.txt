@@ -1,0 +1,2 @@
+1. Results screen remains minimized when new files are dropped onto the parent window. (maybe kill the existing window?)
+2. Results screen should pop up in center of monitor
